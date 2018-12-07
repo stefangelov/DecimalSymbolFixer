@@ -1,4 +1,5 @@
 OVERVIEW
+--------
 	[+] Change decimal symbol of Num keyboard from comma to dot 
 		when You use Bulgarian (Phonetic Traditional) or Poland 
 		keyboard layout (for example).
@@ -8,10 +9,12 @@ OVERVIEW
 		it.
 
 REQUIREMENTS
-	[+] .NETFramework,Version=v4.5 
+------------
+	[+] .NETFramework,Version=v4.5 or newer
 
 
 USAGE
+-----
 	[+] DSChanger.config 
 		->  In folder where is " ChangeFromCommaToDot.exe " You
 			need to have " DSChanger.config " file.
