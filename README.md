@@ -1,0 +1,1 @@
+Change decimal symbol of Num keyboard from comma to dot when You use Bulgarian (Phonetic Traditional) keyboard layout (for example)
