@@ -26,4 +26,4 @@ USAGE
 		place, just run the exe file. The app is running in the
 		background;
 
-	[+] It can be added to system StartUp. 
+	[+] It can be added to system StartUp.
