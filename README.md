@@ -33,3 +33,9 @@ USAGE
 		background;
 
 	[+] It can be added to system StartUp.
+
+HOW TO GET IT
+-------------
+	[+] The " GetIt " directory contains ChangeFromCommaToDot_<version>.7z
+		file. 
+		Download it, extract the content in directory on Your hdd and run it.
