@@ -1,3 +1,6 @@
+Decimal Symbol Fixer
+====================
+
 OVERVIEW
 --------
 	[+] Change decimal symbol of Num keyboard from comma to dot 
